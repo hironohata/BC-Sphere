@@ -1,7 +1,7 @@
 # Blockchain Sphere
 
 ## ・Every application required a blockchain which meets the application needs.
-## ・There are three type of Blockchains;
+## ・There are three types of Blockchains;
 		・Value transition
 		・Data recording and auditing
 		・IoT Data
