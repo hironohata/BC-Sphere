@@ -11,5 +11,5 @@
 
 ## ・These blockchains connect with each other and  exchange their data through the Inter Blockchain.
 
-## ・As the center of the sphere, each individual owns its wallet and its personal data.
+## ・As the center of the sphere, each individual owns its wallet and personal data.
 
