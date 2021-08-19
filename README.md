@@ -1,5 +1,3 @@
-# BC-Sphere
-
 # Blockchain Sphere
 
 ## ・Every application required a blockchain which meets the application needs.
